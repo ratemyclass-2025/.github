@@ -1,12 +1,7 @@
-## Hi there 👋
+Plataforma sem fins lucrativos de apoio à democracia virtual, permitindo que cidadãos fiscalizem atividades de políticos focando em gastos públicos. Projeto desenvolvido para a disciplina "IF977 Engenharia de Software" do curso de Sistemas de Graduação da UFPE.
 
-<!--
+### LINKS IMPORTANTES:
+[Kanban](https://github.com/orgs/democraciavista/projects/1) - [Todos os Artefatos](https://github.com/democraciavista/.github/tree/main/artifacts) - [Termo de Abertura](https://github.com/democraciavista/.github/blob/main/artifacts/charter.pdf) - [Requisitos](https://github.com/democraciavista/.github/blob/main/artifacts/requirements.pdf) - [Atas de Reunião](https://github.com/democraciavista/.github/tree/main/artifacts/meetings)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### OBJETIVO DO MVP
+Otimizar a fiscalização de gastos públicos irregulares por meio da aplicação de Data Science e Inteligência Artificial dentro de um site onde é possível buscar por políticos ou empresas, e gastos irregulares são automaticamente sinalizados.
