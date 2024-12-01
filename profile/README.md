@@ -5,3 +5,10 @@ Plataforma sem fins lucrativos de apoio à democracia virtual que monitora a ati
 
 ### OBJETIVO DO MVP
 Otimizar a fiscalização de gastos públicos irregulares por meio da aplicação de Data Science e Inteligência Artificial dentro de um site onde é possível buscar por políticos ou empresas, e gastos irregulares são automaticamente sinalizados.
+
+### EQUIPE
+* Francesca Monteiro
+* Ismael Henrique
+* Lucas Américo
+* Beatriz Gonçalo
+* Sara Pereira
