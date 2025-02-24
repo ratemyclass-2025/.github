@@ -4,7 +4,6 @@ O projeto foi desenvolvido para a disciplina **"IF977 Engenharia de Software"** 
 
 ## **Links Importantes**  
 [Kanban](https://github.com/orgs/democraciavista/projects/1) - [Todos os Artefatos](https://github.com/democraciavista/.github/tree/main/artifacts) - [Termo de Abertura](https://github.com/democraciavista/.github/blob/main/artifacts/charter.pdf) - [Requisitos](https://github.com/democraciavista/.github/blob/main/artifacts/requirements.pdf) - [Atas de Reunião](https://github.com/democraciavista/.github/tree/main/artifacts/meetings)
-(*OBS: Atualize os links reais do repositório quando disponíveis.*)  
 
 ---
 
