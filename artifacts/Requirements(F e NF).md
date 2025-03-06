@@ -1,4 +1,4 @@
-# Requisitos Funcionais  e Não Funcionais
+# Requisitos Funcionais e Não Funcionais
 
 ## 1. Introdução  
 Este documento descreve os **requisitos funcionais e não funcionais** do sistema de avaliação acadêmica e compartilhamento de materiais. Ele define as principais funcionalidades que o sistema deve possuir para atender aos objetivos do projeto.  
